@@ -1,0 +1,2 @@
+# qimagick
+Qt ImageMagick GUI
